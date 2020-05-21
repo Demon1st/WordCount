@@ -4,8 +4,7 @@
 >例如：thi#,that视为用逗号隔开的2个单词。
 ## 2.输入输出说明：
 输入： [parameter] [input_file_name]<br>
->注： [parameter]为控制参数，取”-c”和”-w”之一；[input_file_name]为要被处理的文本文件名，默认存放在执行文件目录下。
-<br>输出：根据[parameter]为以下形式之一<br>
+>注： [parameter]为控制参数，取”-c”和”-w”之一；[input_file_name]为要被处理的文本文件名，默认存放在执行文件目录下。  输出：根据[parameter]为以下形式之一<br>
 >字符数：n<br>
 >单词数：n<br>
 >其中n为统计的字符数或单词数<br> 例如：<br>
